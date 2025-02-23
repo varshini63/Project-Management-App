@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://threat_intel_user:UXDpbDC7Mf1U64qB@cluster0.ads645w.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+    "jwtSecret": "7d4e075df1596c989463b44192e169ea493c3ee9e1df846c648e9f4fb6dd201ea8e95f83ff51c7ba009f1cc31de3e078d79455bd0da87d122ff1c41d7ccd8703"
+  }
